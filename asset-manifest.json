@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.f1b1c849.chunk.css",
+    "main.js": "/Amazon-clone/static/js/main.fab94343.chunk.js",
+    "main.js.map": "/Amazon-clone/static/js/main.fab94343.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.e520d429.js",
+    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.e520d429.js.map",
+    "static/js/2.253ed2e4.chunk.js": "/Amazon-clone/static/js/2.253ed2e4.chunk.js",
+    "static/js/2.253ed2e4.chunk.js.map": "/Amazon-clone/static/js/2.253ed2e4.chunk.js.map",
+    "static/js/3.8cb45d46.chunk.js": "/Amazon-clone/static/js/3.8cb45d46.chunk.js",
+    "static/js/3.8cb45d46.chunk.js.map": "/Amazon-clone/static/js/3.8cb45d46.chunk.js.map",
+    "index.html": "/Amazon-clone/index.html",
+    "static/css/main.f1b1c849.chunk.css.map": "/Amazon-clone/static/css/main.f1b1c849.chunk.css.map",
+    "static/js/2.253ed2e4.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.253ed2e4.chunk.js.LICENSE.txt",
+    "static/media/banner-ad-aws.3fb70991.jpg": "/Amazon-clone/static/media/banner-ad-aws.3fb70991.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e520d429.js",
+    "static/js/2.253ed2e4.chunk.js",
+    "static/css/main.f1b1c849.chunk.css",
+    "static/js/main.fab94343.chunk.js"
+  ]
+}
